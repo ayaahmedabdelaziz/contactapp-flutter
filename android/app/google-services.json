@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833971617103",
+    "project_id": "contact-app-4f5aa",
+    "storage_bucket": "contact-app-4f5aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833971617103:android:26caffef4e292a207c993a",
+        "android_client_info": {
+          "package_name": "com.contactappaya.untitled27"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvMEpq8Uuqkb-KVQXDN3SnFKiBt9Vvcu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
